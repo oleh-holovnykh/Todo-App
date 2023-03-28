@@ -1,7 +1,7 @@
 # Todo App
 Simple but functional todo list application
 
-<b>Technologies</b>: React, HTML, CSS, TypeSctipt
+<b>Technologies</b>: ReactJS, HTML, CSS, TypeScript
 
 <b>Libraries</b>: Bulma, Fontawesome 
 
