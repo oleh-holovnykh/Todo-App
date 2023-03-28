@@ -1,4 +1,8 @@
-# Base layout template with Gulp, SCSS and Stylelint
-1. Create a repo using this template
-1. Replace `<your_account>` and `<repo_name>` with your Github username and the new repo name
-    - [DEMO LINK](https://<your_account>.github.io/<repo_name>/)
+# Todo App
+Simple but functional todo list application
+
+<b>Technologies</b>: React, HTML, CSS, TypeSctipt
+
+<b>Libraries</b>: Bulma, Fontawesome 
+
+[DEMO LINK](https://oleh-holovnykh.github.io/todo-app/)
