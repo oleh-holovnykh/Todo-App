@@ -1,6 +1,6 @@
 # TodoApp
 
-##[DEMO LINK](https://oleh-holovnykh.github.io/todo-app/)
+[DEMO LINK](https://oleh-holovnykh.github.io/todo-app/)
 
 TodoApp is a single-page application designed to help you manage your tasks with ease. This intuitive app allows you to add, edit, and track your tasks in a structured and user-friendly manner.
 
